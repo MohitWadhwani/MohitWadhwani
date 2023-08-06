@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Wadhwani </h1>
-<h3 align="center">The Cloud DevOps Specialist</h3>
+<h3 align="center">The Cloud DevSecOps Specialist</h3>
 
 <p align="center">
 <a align="center" href="https://in.linkedin.com/in/wadhwani-mohit" target="_blank">
@@ -14,8 +14,7 @@
 
 ### About Me 🚀
 
-🎓 I’m an outstanding and self-motivated professional with 3.9+ years of experience in industry with major focus on DevOps, Cloud and Agile methodologies. </br>
-👨‍💻 I am passionate about DevOps, Cloud, Agile & New Cutting Edge Technologies & I enjoy learning new things.<br>
+👨‍💻 I am passionate about DevSecOps, Cloud, Agile & New Cutting Edge Technologies & I enjoy learning new things.<br>
 
 ##### 🧾 Certifications I have Accomplished
 
